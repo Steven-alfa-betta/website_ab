@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Categorie - Alfa-Betta.be Official</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Categories - Categorie - Alfa-Betta.be Official</description>
+        <generator>Hugo -- gohugo.io</generator><language>nl</language><managingEditor>mail@example.com (Alfa-Betta)</managingEditor>
+            <webMaster>mail@example.com (Alfa-Betta)</webMaster><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>

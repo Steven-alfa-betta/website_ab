@@ -1,0 +1,198 @@
+# Vertaling voor nederlands
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# === baseof ==
+[backToTop]
+other = "Terug naar boven"
+
+[viewComments]
+other = "Commentaren bekijken"
+# === baseof ==
+
+# === Post ===
+[posts]
+other = "Berichten"
+# === Post ===
+
+# === Taxonomy ===
+[allSome]
+other = "Alle {{ .Some }}"
+
+[tag]
+other = "Label"
+
+[tags]
+other = "Labels"
+
+[category]
+other = "Categorie"
+
+[categories]
+other = "Categoriën"
+# === Taxonomy ===
+
+# === Pagination ===
+[more]
+other = "Meer"
+# === Pagination ===
+
+# === partials/header.html ===
+[selectLanguage]
+other = "Selecteer een taal"
+
+[switchTheme]
+other = "Design veranderen"
+# === partials/header.html ===
+
+# === partials/footer.html ===
+[poweredBySome]
+other = "Gebouwd met {{ .Hugo }} & {{ .Theme }}"
+# === partials/footer.html ===
+
+# === partials/comment.html ===
+[valineLang]
+other = "nl"
+
+[valinePlaceholder]
+other = "Uw reactie ..."
+
+[facebookLanguageCode]
+other = "nl_BE"
+
+[giscusLang]
+other = "nl"
+# === partials/comment.html ===
+
+# === partials/assets.html ===
+[search]
+other = "Zoeken"
+
+[searchPlaceholder]
+other = "Titels of inhoud zoeken..."
+
+[clear]
+other = "Verwijderen"
+
+[cancel]
+other = "Annuleren"
+
+[noResultsFound]
+other = "Geen resultaten gevonden"
+
+[lunrLanguageCode]
+other = "nl"
+
+[copyToClipboard]
+other = "Naar klembord copieren"
+
+[cookieconsentMessage]
+other = "Deze website gebruikt cookies om uw ervaring te verbeteren."
+
+[cookieconsentDismiss]
+other = "Ok!"
+
+[cookieconsentLink]
+other = "Leer meer"
+# === partials/assets.html ===
+
+# === partials/plugin/share.html ===
+[shareOn]
+other = "Delen"
+# === partials/plugin/share.html ===
+
+# === posts/single.html ===
+[contents]
+other = "Inhoud"
+
+[publishedOnDate]
+other = "geplaatst op {{ .Date }}"
+
+[includedInCategories]
+other = "> {{ .Categories }}"
+
+[wordCount]
+one = "Een woord"
+other = "{{ .Count }} woorden"
+
+[readingTime]
+one = "Een minuut"
+other = "{{ .Count }} minuten lees tijd"
+
+[views]
+other = "bekeken"
+
+[author]
+other = "Auteur"
+
+[updatedOnDate]
+other = "Aangepast op {{ .Date }}"
+
+[readMarkdown]
+other = "Lees Markdown"
+
+[back]
+other = "Terug"
+
+[home]
+other = "Begin"
+
+[readMore]
+other = "Lees meer"
+# === posts/single.html ===
+
+# === 404.html ===
+[pageNotFound]
+other = "Pagina niet gevonden"
+
+[pageNotFoundText]
+other = "De pagina die je zocht bestaat niet..."
+# === 404.html ===
+
+# === shortcodes/admonition.html ===
+[note]
+other = "Nititie"
+
+[abstract]
+other = "Abstract"
+
+[info]
+other = "Info"
+
+[tip]
+other = "Tip"
+
+[success]
+other = "Success"
+
+[question]
+other = "Vraag"
+
+[warning]
+other = "Waarschuwing"
+
+[failure]
+other = "Mislukking"
+
+[danger]
+other = "Gevaar"
+
+[bug]
+other = "Bug"
+
+[example]
+other = "Voorbeeld"
+
+[quote]
+other = "Quote"
+# === shortcodes/admonition.html ===
+
+# === shortcodes/version.html ===
+[new]
+other = "NIEUW"
+
+[changed]
+other = "AANGEPAST"
+
+[deleted]
+other = "VERWIJDERD"
+# === shortcodes/version.html ===
