@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313'
+baseURL = 'https://www.alfa-betta.be/'
 title = 'Alfa-Betta.be Official'
 theme = 'LoveIt'
 languageCode = 'nl'
